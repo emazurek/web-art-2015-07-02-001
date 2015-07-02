@@ -1,0 +1,11 @@
+{
+  "name": "web-art-template",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "EaselJS": "~0.8.1",
+    "SoundJS": "~0.6.1",
+    "TweenJS": "~0.6.1",
+    "PreloadJS": "~0.6.1"
+  }
+}
